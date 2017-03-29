@@ -2,8 +2,11 @@
 
 This is a simple Meteor app using the [UploadFS](https://github.com/jalik/jalik-ufs) package.
 
-## Running
+## Install
 
+meteor npm install```
+
+## Running
 Download the sources, then open a terminal in the root directory and start the app :
 
 ```meteor run```
